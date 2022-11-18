@@ -1,4 +1,3 @@
-
 /*Programa:
 Calcula o tempo de execução de cada algoritmo (funções prefixMedia1, prefixMedia2)
 */
