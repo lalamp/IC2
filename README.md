@@ -1,5 +1,6 @@
 # IC2
 Práticas da disciplina Introdução à Computação II 
+
 Linguagem: C++
 
 Prática 1:
