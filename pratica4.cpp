@@ -1,5 +1,5 @@
 /*Programa:
-Para matrizes quadradas (com n linhas e n colunas).
+Cria duas matrizes quadradas, A e B, com n linhas e n colunas.
 Imprime a transposta da matriz A.
 Calcula o produto entre as matrizes A e B.
 Calcula o traço da matriz B.
