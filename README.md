@@ -1,9 +1,7 @@
 # IC2
 Práticas da disciplina Introdução à Computação II - Linguagem: C++
 
-
-
-Prática 1:
+PRÁTICA 1:
 
 Crie um programa que possua uma struct chamada estudante com os seguintes elementos: numero USP, nota da primeira prova, nota da segunda prova e média final.
 
@@ -19,8 +17,7 @@ Crie um menu que permita realizar as seguintes operações:
   
 Observações: procurar dados do estudante usando o número USP, calcular a média final como a média aritmética entre as duas provas e considerar um número máximo de 100 estudantes.
 
-
-Prática 2:
+PRÁTICA 2:
 
 Implemente os algoritmos prefixMedia1() e prefixMedia2() apresentados a seguir utilizando funções (uma para cada algoritmo).
 
@@ -28,19 +25,11 @@ Obtenha os tempos de execução para vários valores distintos (pelo menos 5) de
 
 Observações: utilize um vetor gerado automaticamente e alocação dinâmica.
 
+PRÁTICA 3:
 
+Crie uma função que, dado um vetor v com n inteiros e um inteiro x (chave de busca), retorne o índice da primeira ocorrência de x em v.  Caso não encontre x no vetor v, a função deve retornar o valor -1. 
 
-
-Prática 3:
-
-Crie uma função que, dado um vetor v com n inteiros e um inteiro x (chave de busca), retorne o índice da primeira ocorrência de x em v. 
-
-Caso não encontre x no vetor v, a função deve retornar o valor -1. 
-
-
-
-
-Prática 4:
+PRÁTICA 4:
 Crie um programa que tenha três funções para a manipulação de matrizes de ponto flutuante - todas as matrizes são quadradas, isto é, tem n linhas e n colunas: 
 
 I. uma que imprima a transposta da matriz A,
@@ -49,14 +38,9 @@ II. outra que calcule o resultado da multiplicação de duas matrizes A e B,
 
 III. uma que calcule o traço de uma matriz B. 
 
+PRÁTICA 6:
 
-
-
-Prática 6:
-
-A prefeitura de uma cidade faz uma pesquisa sobre os domicílios na área urbana.
-
-Em cada domicilio, são coletados dados sobre renda média mensal, número total de ocupantes, endereço e número de ocupantes em idade escolar. 
+A prefeitura de uma cidade faz uma pesquisa sobre os domicílios na área urbana. Em cada domicilio, são coletados dados sobre renda média mensal, número total de ocupantes, endereço e número de ocupantes em idade escolar. 
 
 Faça:
 
@@ -70,10 +54,7 @@ II. um programa que leia o arquivo e tenha um menu que permita:
   
   c. sair.
  
- 
- 
- 
-Prática 7:
+PRÁTICA 7:
 
 Crie um registro (struct) com os campos: nome (string) e número de inscrição (int). 
 
