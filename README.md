@@ -1,6 +1,8 @@
 # IC2
 Práticas da disciplina Introdução à Computação II - Linguagem: C++
 
+
+
 Prática 1:
 
 Crie um programa que possua uma struct chamada estudante com os seguintes elementos: numero USP, nota da primeira prova, nota da segunda prova e média final.
@@ -27,11 +29,15 @@ Obtenha os tempos de execução para vários valores distintos (pelo menos 5) de
 Observações: utilize um vetor gerado automaticamente e alocação dinâmica.
 
 
+
+
 Prática 3:
 
 Crie uma função que, dado um vetor v com n inteiros e um inteiro x (chave de busca), retorne o índice da primeira ocorrência de x em v. 
 
 Caso não encontre x no vetor v, a função deve retornar o valor -1. 
+
+
 
 
 Prática 4:
@@ -42,6 +48,8 @@ I. uma que imprima a transposta da matriz A,
 II. outra que calcule o resultado da multiplicação de duas matrizes A e B,
 
 III. uma que calcule o traço de uma matriz B. 
+
+
 
 
 Prática 6:
@@ -61,7 +69,9 @@ II. um programa que leia o arquivo e tenha um menu que permita:
   b. buscar os dados do domicílio quando um determinado endereço é digitado. Para a busca, deve-se utilizar busca binária,
   
   c. sair.
-  
+ 
+ 
+ 
  
 Prática 7:
 
