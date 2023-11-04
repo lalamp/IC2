@@ -34,7 +34,7 @@ Crie um programa que tenha três funções para a manipulação de matrizes de p
 2) outra que calcule o resultado da multiplicação de duas matrizes A e B,
 3) uma que calcule o traço de uma matriz B. 
 
-+ [prática 6-2](https://github.com/lalamp/IC2/blob/main/pratica6.cpp)
++ [prática 6-1](https://github.com/lalamp/IC2/blob/main/pratica6.cpp)
 + [prática 6-2](https://github.com/lalamp/IC2/blob/main/pratica6-2.cpp)
   
 A prefeitura de uma cidade faz uma pesquisa sobre os domicílios na área urbana. Em cada domicilio, são coletados dados sobre renda média mensal, número total de ocupantes, endereço e número de ocupantes em idade escolar. 
